@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/asd/static/css/main.e52d9f54.css",
+    "main.js": "/asd/static/js/main.c2c7d49a.js",
+    "static/media/vid.mp4": "/asd/static/media/vid.3ccedb4a9e37e5830962.mp4",
+    "static/media/gunnarsykkel.jpg": "/asd/static/media/gunnarsykkel.eb55eba77cbf410a3071.jpg",
+    "static/media/trestk.jpg": "/asd/static/media/trestk.b46935e992ad721c4755.jpg",
+    "static/media/bjorn.jpg": "/asd/static/media/bjorn.dec9a1b4835af3f83dbd.jpg",
+    "static/media/seb.jpg": "/asd/static/media/seb.bda52ec848369f8a046c.jpg",
+    "static/media/samuel.jpg": "/asd/static/media/samuel.b8d3799a758ff9438471.jpg",
+    "index.html": "/asd/index.html",
+    "main.e52d9f54.css.map": "/asd/static/css/main.e52d9f54.css.map",
+    "main.c2c7d49a.js.map": "/asd/static/js/main.c2c7d49a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52d9f54.css",
+    "static/js/main.c2c7d49a.js"
+  ]
+}
